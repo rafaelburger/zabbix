@@ -23,9 +23,6 @@ opensent (4)
 openconfirm (5)
 established (6)
 
-
-
-
 Obs.: Executar seguintes comandos para validar coleta:
 snmpbulkwalk -v2c -c community ip-equipamento 
 snmpwalk -v2c -c community ip-equipamento
